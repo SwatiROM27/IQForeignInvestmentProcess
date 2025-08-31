@@ -1,4 +1,0 @@
-[33m0723065[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Security fix: Remove hardcoded API keys and improve security
-[33m892a026[m Update Project .gitignore to include CSV files
-[33m2948e96[m Add README.md with project description
-[33mb3008bc[m Initial commit: Add Files and Project folders with all CSV files
